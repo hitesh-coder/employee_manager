@@ -2,6 +2,8 @@ import firebase from "firebase/app";
 // import { ref, onUnmounted } from "vue";
 import 'firebase/firestore';
 import 'firebase/database';
+import 'firebase/firebase-auth';
+import 'firebase/auth';
 
 const config = {
     apiKey: "AIzaSyBugV-7IMEW-RE6ApMyJUB-xCohny8HGKI",
